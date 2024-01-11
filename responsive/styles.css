@@ -1,0 +1,11 @@
+body{
+    background: url(flower.jpg);
+    background-size: cover;
+}
+
+li{
+    color: red;
+    background-color: aqua;
+    display: inline-block;
+    margin: 10px;
+}
